@@ -57,7 +57,12 @@ Trinket is great for experimenting and sharing your code online.
 - ➡️ **Day 2**: [Interactive Programming & Data Types](./Day-2-Interactive-Programming%20%2B%20Data-Types/)  
 - ➡️ **Day 3**: [Python's built-in collection types](./Day-3-Python%27s-built-in-collection-types/)
 - ➡️ **Day 4**: [Automating with Loops](./Day-4-Automating-with-loops/) 
-- 🔜 **Day 5**: Coming Soon...
+- ➡️ **Day 5**: [Introducing Functions](./Day-5-Introducing-Functions/) 
+- ➡️ **Day 6**: [Using Modules](./Day-6-Using-Modules/) 
+- ➡️ **Day 7**: [File Handling](./Day-7-File-Handling/) 
+- ➡️ **Day 8**: [Object Oriented Programming](./Day-8-Object-Oriented-Programming/) 
+- ➡️ **Day 9**: [OOPS Inheritance](./Day-9-OOPS-Inheritance/) 
+- ➡️ **Day 10**: [Final Day Bonus Content](./Final-Day-Bonus-Content/) 
 
 ---
 
